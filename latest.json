@@ -1,8 +1,8 @@
 {
-  "preview": "102",
-  "versionCode": 102,
-  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v102/HedgeRatio-102.apk",
+  "preview": "103",
+  "versionCode": 103,
+  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v103/HedgeRatio-103.apk",
   "size": 53791,
-  "sha256": "d2fd8c41c7e1fa0259e9261a943e43a3723256c4be6164468a175c3071aa2e54",
-  "notes": "Version 5.2. Trigger first published build"
+  "sha256": "a9e1d295e9c53e1109159e22a064fd22b1c466f672218397154a31a804d59f63",
+  "notes": "Version 5.3. Add 1, 5, 15 and 30 minute candles for day trading"
 }
