@@ -1,8 +1,8 @@
 {
-  "preview": "106",
-  "versionCode": 106,
-  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v106/HedgeRatio-106.apk",
+  "preview": "107",
+  "versionCode": 107,
+  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v107/HedgeRatio-107.apk",
   "size": 57887,
-  "sha256": "c9746ab90dfdae1c7b17358b2204b2b3347965049d31cf4c4b553351e4f2972c",
-  "notes": "Version 5.6. Show the calendar card only after a calculation"
+  "sha256": "d6a9ef9f31e58ede0c4a9f7a8f0fffacc2a440ee237c204c7110281270f91a29",
+  "notes": "Version 5.7. Check for updates when the app is brought back, not only on a fresh start"
 }
