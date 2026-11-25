@@ -1,8 +1,8 @@
 {
-  "preview": "105",
-  "versionCode": 105,
-  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v105/HedgeRatio-105.apk",
+  "preview": "106",
+  "versionCode": 106,
+  "apk": "https://github.com/Soulshifted/Hedge-Updater/releases/download/v106/HedgeRatio-106.apk",
   "size": 57887,
-  "sha256": "3e196af9b7cb95fd1ec417fd5290188d31c5f3e7dd5a1f64ccee6f9006ab7343",
-  "notes": "Version 5.5. Calendar card: days to each expiration with holidays, Fed, CPI, jobs and opex"
+  "sha256": "c9746ab90dfdae1c7b17358b2204b2b3347965049d31cf4c4b553351e4f2972c",
+  "notes": "Version 5.6. Show the calendar card only after a calculation"
 }
